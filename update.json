@@ -1,0 +1,21 @@
+{
+  "deprecated": false,
+  "language":
+  [
+    "简体中文",
+    "English"
+  ],
+  "avaliable":
+  {
+    "original":
+    [
+      "原汁原味",
+      "Original"
+    ],
+    "heavy":
+    [
+      "缸人增重",
+      "Heavier"
+    ]
+  }
+}
